@@ -1,4 +1,4 @@
-Eu sou Bruno Batista Analista de qualidade atualmente trabalhando na Trybe ,atuo na área faz 5 anos.
+Eu sou Bruno Batista Analista de qualidade atualmente trabalhando na Zup Innovation ,atuo na área faz 10 anos.
 Tenho conhecimento nas linguagens Java, Ruby, Javascript(em estudos).
 Tenho conhecimento em testes nas frente Mobile, Web e Api.
 Atuo em times ágeis
